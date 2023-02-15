@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a z}{a z} | tr * * '\n'|cgrep -v '00'
+echo {a. .Z}{a. .Z} | tr * * "\n" | grep -v "oo"
